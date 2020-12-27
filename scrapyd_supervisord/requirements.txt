@@ -1,0 +1,16 @@
+scrapy-redis==0.6.8
+scrapyd-client
+pymongo==3.11.0
+pymysql== 0.10.1
+requests== 2.25.0
+scrapy==2.4.1
+lxml
+selenium
+aiohttp
+beautifulsoup4
+pyquery
+redis
+flask
+django
+scrapy-splash
+logparser
